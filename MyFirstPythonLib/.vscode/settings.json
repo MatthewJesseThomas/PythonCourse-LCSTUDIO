@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "[python]": {
+        "editor.defaultFormatter": "fabioz.vscode-pydev"
+    },
+    "python.formatting.provider": "none"
+}
