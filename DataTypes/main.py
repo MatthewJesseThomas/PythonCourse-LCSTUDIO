@@ -96,3 +96,8 @@
 # Checks if all Read To Serve, if all value is False == False but if all True == True
 # ready_to_serve = all([lasagna, pasta])
 # print(ready_to_serve)
+# Imaginary Numbers
+# num1 = 2 + 3j
+# num2 = complex(2, 3)
+# print(num2.real, num2.imag)
+# print(type(num2.real), type(num2.imag))
