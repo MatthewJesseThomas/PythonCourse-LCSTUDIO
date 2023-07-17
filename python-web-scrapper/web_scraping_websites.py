@@ -5,7 +5,7 @@ import sys
 import csv
 
 # Define the URL of the website you want to scrape
-url = 'https://stygianumbragaming.web.app/'
+url = 'https://lifechoicesacademy.com/'
 
 # Send an HTTP GET request and retrieve the webpage content
 response = requests.get(url)
