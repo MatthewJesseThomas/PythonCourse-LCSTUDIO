@@ -1,10 +1,25 @@
 {
     "files.autoSave": "afterDelay",
     "cSpell.words": [
+        "actionmenu",
+        "anotherbtn",
         "Blackletter",
+        "borderwidth",
+        "clearbtn",
         "createfont",
+        "filemenu",
+        "Gott",
         "Hellvitivca",
+        "keysym",
+        "Leiben",
+        "Meine",
         "Mundo",
+        "padx",
+        "pady",
+        "seperator",
+        "Sholl",
+        "Spaarend",
+        "tearoff",
         "tkfont"
     ]
 }
