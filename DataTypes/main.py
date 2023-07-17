@@ -123,3 +123,10 @@
 # items.sort(key=str.lower)
 # print(sorted(items, key=str.lower))
 # print(items)
+# ============================================
+# Tuples
+# archangels = ("Micheal", "Gabriel", "Uriel", "Azreal")
+
+# print(archangels[0])
+# print(archangels.index("Azreal"))
+# print(archangels)
