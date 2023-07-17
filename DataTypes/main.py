@@ -115,3 +115,11 @@
 # print(breeds[:2])
 # print(breeds.pop())
 # print(breeds)
+# ==============================================
+# items = ["Dog", "Cat", "Shark", "Mouse", "Horse", "Crocodile", "Elephant"]
+
+# items[1:1] = ["Aligator", "Cayman"]
+# items.sort()
+# items.sort(key=str.lower)
+# print(sorted(items, key=str.lower))
+# print(items)
