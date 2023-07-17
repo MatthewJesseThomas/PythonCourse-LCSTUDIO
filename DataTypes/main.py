@@ -101,3 +101,17 @@
 # num2 = complex(2, 3)
 # print(num2.real, num2.imag)
 # print(type(num2.real), type(num2.imag))
+# ================================================
+# breeds = ["Colier", "Shepards", "RottWieller", "BoerBoel", "Pug", "Pitbull"]
+
+# breeds[4] = "Dachshond"
+# breeds.append("Mastif")
+# breeds.extend(["Bull Mastif"])
+# breeds += ["Argentinian Mastif"]
+# breeds.remove(6)
+
+# print(len(breeds))
+# print(breeds[2:4])
+# print(breeds[:2])
+# print(breeds.pop())
+# print(breeds)
