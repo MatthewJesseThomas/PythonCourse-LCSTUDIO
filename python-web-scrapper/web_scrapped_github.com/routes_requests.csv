@@ -1,0 +1,467 @@
+Route,Request
+#start-of-content,Skip to content
+https://github.com/,"
+
+
+
+"
+/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo,"
+            Signup
+          "
+/features/actions,"
+
+
+
+
+Actions
+        Automate any workflow
+      
+"
+/features/packages,"
+
+
+
+
+Packages
+        Host and manage packages
+      
+"
+/features/security,"
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+"
+/features/codespaces,"
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+"
+/features/copilot,"
+
+
+
+
+Copilot
+        Write better code with AI
+      
+"
+/features/code-review,"
+
+
+
+
+Code review
+        Manage code changes
+      
+"
+/features/issues,"
+
+
+
+
+Issues
+        Plan and track work
+      
+"
+/features/discussions,"
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+"
+/features,"
+      All features
+
+    
+"
+https://docs.github.com,"
+      Documentation
+
+    
+
+
+"
+https://skills.github.com/,"
+      GitHub Skills
+
+    
+
+
+"
+https://github.blog,"
+      Blog
+
+    
+
+
+"
+/enterprise,"
+      Enterprise
+
+    
+"
+/team,"
+      Teams
+
+    
+"
+/enterprise/startups,"
+      Startups
+
+    
+"
+https://education.github.com,"
+      Education
+
+    
+
+
+"
+/solutions/ci-cd/,"
+      CI/CD & Automation
+
+    
+"
+https://resources.github.com/devops/,"
+      DevOps
+
+    
+
+
+"
+https://resources.github.com/devops/fundamentals/devsecops/,"
+      DevSecOps
+
+    
+
+
+"
+/customer-stories,"
+      Customer Stories
+
+    
+"
+https://resources.github.com/,"
+      White papers, Ebooks, Webinars
+
+    
+
+
+"
+https://partner.github.com/,"
+      Partners
+
+    
+
+
+"
+/sponsors,"
+
+GitHub Sponsors
+        Fund open source developers
+      
+"
+/readme,"
+
+The ReadME Project
+        GitHub community articles
+      
+"
+/topics,"
+      Topics
+
+    
+"
+/trending,"
+      Trending
+
+    
+"
+/collections,"
+      Collections
+
+    
+"
+/pricing,Pricing
+https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax,"
+              Search syntax tips
+"
+https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax,documentation
+/login?return_to=https%3A%2F%2Fgithub.com%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO%2F,"
+              Sign in
+            "
+/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=MatthewJesseThomas%2FPythonCourse-LCSTUDIO,"
+              Sign up
+            "
+,Reload
+,Reload
+,Reload
+/MatthewJesseThomas,"
+        MatthewJesseThomas
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO,PythonCourse-LCSTUDIO
+/login?return_to=%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO," 
+
+Notifications
+"
+/login?return_to=%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO," 
+
+Fork
+    0
+"
+/login?return_to=%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO," 
+
+
+          Star
+ 0
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/stargazers,"
+
+
+
+0
+          stars
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/forks,"
+
+
+
+0
+          forks
+"
+/login?return_to=%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO," 
+
+
+          Star
+
+"
+/login?return_to=%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO," 
+
+Notifications
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO,"
+
+
+
+Code
+
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/issues,"
+
+
+
+Issues
+0
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/pulls,"
+
+
+
+Pull requests
+0
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/actions,"
+
+
+
+Actions
+
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/projects,"
+
+
+
+Projects
+0
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/security,"
+
+
+
+Security
+
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/pulse,"
+
+
+
+Insights
+
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO,"
+                  Code
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/issues,"
+                  Issues
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/pulls,"
+                  Pull requests
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/actions,"
+                  Actions
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/projects,"
+                  Projects
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/security,"
+                  Security
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/pulse,"
+                  Insights
+"
+https://github.com/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/{{ urlEncodedRefName }},
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/branches,View all branches
+https://github.com/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/{{ urlEncodedRefName }},
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tags,View all tags
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/branches,"
+
+
+
+1
+branch
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tags,"
+
+
+
+0
+tags
+"
+https://docs.github.com/articles/which-remote-url-should-i-use,"
+
+
+
+"
+https://cli.github.com,Learn more about the CLI
+https://desktop.github.com,"
+
+
+
+    Open with GitHub Desktop
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/archive/refs/heads/main.zip,"
+
+
+
+    Download ZIP
+"
+/codespaces/new?hide_repo_select=true&ref=main&repo=665990267,sign in
+https://desktop.github.com/,download GitHub Desktop
+https://desktop.github.com/,download GitHub Desktop
+https://developer.apple.com/xcode/,download Xcode
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/commits/main,"
+
+
+
+
+13
+
+                      commits
+                    
+
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/e9756782e43b918ec3c6af0eb802127b5eb7771d,Permalink
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/.vscode,.vscode
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/Built-In%20Functions,Built-In Functions
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/DataTypes,DataTypes
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/GUI-Interface,GUI-Interface
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/Johanna,Johanna
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/MageClassInputFunction,MageClassInputFunction
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/MyFirstPythonLib,MyFirstPythonLib
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/tree/main/Rock_Paper_Scissors,Rock_Paper_Scissors
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/blob/main/ReadMe.md,ReadMe.md
+#lcstudio,LCSTUDIO
+#lcstudio-python-learning-journey,LCSTUDIO Python Learning Journey
+#course-started-on-13072023---ends-on-27072023,Course Started on 13/07/2023 - Ends on 27/07/2023
+#rock-paper-scissors-game---13072023,Rock-Paper-Scissors Game - 13/07/2023
+#python-datatypesvariables-operators-booleans-strings-int-float-etc---13072023,"Python DataTypes(Variables, Operators, Booleans, Strings, Int, Float etc) - 13/07/2023"
+#xenaia---ai-modelsetup---initialized---operational---14072023,XENAIA - AI Model(Setup - Initialized - Operational) - 14/07/2023
+#gui-python-gui---create---init---17072023,GUI (Python Gui - Create - Init) - 17/07/2023
+#python-dynamic-web-scrapper---web-scrapper---17072023,Python Dynamic Web Scrapper - (Web-Scrapper) - 17/07/2023
+#readme,ReadMe.md
+#lcstudio,
+#lcstudio-python-learning-journey,
+#course-started-on-13072023---ends-on-27072023,
+#rock-paper-scissors-game---13072023,
+#python-datatypesvariables-operators-booleans-strings-int-float-etc---13072023,
+#xenaia---ai-modelsetup---initialized---operational---14072023,
+#gui-python-gui---create---init---17072023,
+#python-dynamic-web-scrapper---web-scrapper---17072023,
+#readme,"
+
+
+
+        Readme
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/stargazers,"
+
+
+
+0
+    stars
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/watchers,"
+
+
+
+1
+    watching
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/forks,"
+
+
+
+0
+    forks
+"
+/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FMatthewJesseThomas%2FPythonCourse-LCSTUDIO&report=MatthewJesseThomas+%28user%29,"
+        Report repository
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/releases,"
+    Releases
+"
+/users/MatthewJesseThomas/packages?repo_name=PythonCourse-LCSTUDIO,"
+    Packages
+      0
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/search?l=python,"
+
+
+
+Python
+74.3%
+"
+/MatthewJesseThomas/PythonCourse-LCSTUDIO/search?l=html,"
+
+
+
+HTML
+25.7%
+"
+https://github.com,"
+
+
+
+"
+https://docs.github.com/site-policy/github-terms/github-terms-of-service,Terms
+https://docs.github.com/site-policy/privacy-policies/github-privacy-statement,Privacy
+https://github.com/security,Security
+https://www.githubstatus.com/,Status
+https://docs.github.com,Docs
+https://support.github.com?tags=dotcom-footer,Contact GitHub
+https://github.com/pricing,Pricing
+https://docs.github.com,API
+https://services.github.com,Training
+https://github.blog,Blog
+https://github.com/about,About
