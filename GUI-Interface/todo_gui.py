@@ -7,7 +7,7 @@ class TodoListApp:
 
     def __init__(self):
         self.gui_window = tk.Tk()
-        self.gui_window.geometry("800x600")
+        self.gui_window.geometry("600x900")
         self.gui_window.title("Todo List")
 
         self.font_families = tkfont.families()
