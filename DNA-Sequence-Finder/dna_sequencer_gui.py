@@ -6,7 +6,7 @@ class DNASEQUENCEGUI:
     def __init__(self):
         self.window = tk.Tk()
         self.window.geometry("800x600")
-        self.window.title("DNA SEQUENCE Analyzer")
+        self.window.title("DNA Mutation Analyzer")
 
         self.seq1 = ""
         self.seq2 = ""
