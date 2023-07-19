@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "columnspan",
+        "tkfont"
+    ]
+}
